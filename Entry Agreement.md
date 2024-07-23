@@ -5,12 +5,11 @@ This Agreement outlines the terms and conditions associated with the privileges 
 ## 1. Privileges and Benefits
 You acknowledge receipt of various privileges and benefits upon holding this Hat, including privileges and benefits conferred to the Hat holder by parties without privity to this Agreement. These privileges and benefits are subject to change at any time by the administrative hats of this Hat, and, You may be removed from this Hat in accordance to the rules of this hats tree. If you are removed from this Hat, any privileges, benefits and reliance by parties not privy to this Agreement will be indemnified by You.
 
-By accessing and participating under the Hat protocol, you agree to uphold these standards and contribute to a positive and safe community experience. Discrimination may take many forms, some of which are less visible than others, and encourage all feedback.
+By accessing and participating under the Hat protocol, you agree to uphold these standards and contribute to a positive and safe community experience. Discrimination may take many forms, some of which are less visible than others, and so we encourage You to share all feedback in the LexClinic Telegram group controlled by [https://guild.xyz/clinic](https://guild.xyz/clinic).
+
 You must follow these rules, which apply to all content, behaviors, servers, and apps. Refer to future documents for specific requirements, including but not limited to, development and monetization policies. 
 
 Repeated violators may be held in bad standing (permabanned).
-
-A team is assigned to review user reports and enforces the guidelines by issuing warnings, removing content, suspending accounts, and reporting to law enforcement when necessary. If You encounter any violations, please report them.
 
 ## 2. Future Agreements and Amendments
 You acknowledge that this Agreement can be replaced at any time according to Hats Protocol procedure and that if You do not sign this Agreement’s replacement within the grace period You will lose your Hat.
