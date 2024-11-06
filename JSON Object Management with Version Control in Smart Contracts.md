@@ -56,7 +56,7 @@ The contract interface includes the following methods:
 
 #### Additional Requirements
 
-- **Universal ABI:** To support widespread adoption and ease of use, the ABI should be designed for compatibility with popular Web3 libraries. 
+- **Universal ABI:** To support widespread adoption and ease of use, the ABI should be standardized for REST-like abstraction within popular Web3 libraries. 
   By making this contract accessible through Web3 abstractions, developers with REST experience can seamlessly interact with the contract.
   
 ## Rationale
