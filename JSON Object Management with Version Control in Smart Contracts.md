@@ -1,7 +1,7 @@
 
 [Generating prompt](https://chatgpt.com/share/672b8163-25c0-8003-8423-1941ef57ca80)
 
-# EIP Title: JSON Object Management with Version Control in Smart Contracts
+# EIP Title: JSON Smart Contract with Value Version Control
 
 **EIP Number:** (Assign upon submission)  
 **Category:** Standards Track  
