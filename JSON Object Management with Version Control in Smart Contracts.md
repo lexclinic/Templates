@@ -4,7 +4,8 @@
 # EIP Title: JSON Smart Contract with Value Version Control
 
 **EIP Number:** (Assign upon submission)  
-**Category:** Standards Track  
+**Type:** Standard Track
+**Category:** Interface 
 **Status:** Draft  
 **Created:** November 7, 2024  
 
